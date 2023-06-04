@@ -1,0 +1,5 @@
+colorama==0.4.6
+ijson==3.2.0.post0
+PyYAML==6.0
+requests==2.31.0
+tqdm==4.65.0

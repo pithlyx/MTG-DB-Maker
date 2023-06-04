@@ -24,7 +24,7 @@ def main():
                 if option == 'y':
                     break
             elif val == 'f':
-                # choice = input("Select menu: ")
+                choice = input("Select menu: ")
                 val = val_input('main', choice)
                 print('\r', end='')
                 # Clear the entire line
