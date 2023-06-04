@@ -1,0 +1,5 @@
+SRC_DIR: './src/DATABASE'
+CHUNK_SIZE: 25000
+CLEAR: False
+SAFE: False
+API: 'https://api.scryfall.com/bulk-data'

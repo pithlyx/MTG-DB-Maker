@@ -1,0 +1,5 @@
+all-parts/
+all
+db/
+.ignore/
+.gitignore
